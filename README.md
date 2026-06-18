@@ -3,7 +3,7 @@ Configurando uma instância do compute engine para execução do software servid
 
 # Objetivos
 
-Personalizar um servidor de aplicativos
-Instalar e configurar o software necessário
-Configurar o acesso à rede
-Programar backups regulares
+- Personalizar um servidor de aplicativos
+- Instalar e configurar o software necessário
+- Configurar o acesso à rede
+- Programar backups regulares
